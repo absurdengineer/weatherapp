@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  height: 50px;
+  padding-left: 10%;
+  background-color: burlywood;
+  position: fixed;
+  font-size: 30px;
+  font-weight: 400;
+}
